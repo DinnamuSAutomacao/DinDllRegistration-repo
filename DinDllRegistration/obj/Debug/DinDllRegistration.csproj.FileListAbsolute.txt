@@ -1,0 +1,6 @@
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\bin\Debug\DinDllRegistration.exe
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\bin\Debug\DinDllRegistration.pdb
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\obj\Debug\DinDllRegistration.csproj.AssemblyReference.cache
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\obj\Debug\DinDllRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\obj\Debug\DinDllRegistration.exe
+C:\Users\Mobster 91\source\repos\DinDllRegistration\DinDllRegistration\obj\Debug\DinDllRegistration.pdb
